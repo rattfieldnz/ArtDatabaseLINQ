@@ -1,0 +1,10 @@
+C:\Documents and Settings\PHADEN.OPNET\Desktop\Art Database Prac in Prog\Art Database 1\bin\Release\Art Database 1.exe
+C:\Documents and Settings\PHADEN.OPNET\Desktop\Art Database Prac in Prog\Art Database 1\bin\Release\Art Database 1.pdb
+C:\Documents and Settings\PHADEN.OPNET\Desktop\Art Database Prac in Prog\Art Database 1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\PHADEN.OPNET\Desktop\Art Database Prac in Prog\Art Database 1\obj\Release\Art_Database_1.Form1.resources
+C:\Documents and Settings\PHADEN.OPNET\Desktop\Art Database Prac in Prog\Art Database 1\obj\Release\Art_Database_1.Properties.Resources.resources
+C:\Documents and Settings\PHADEN.OPNET\Desktop\Art Database Prac in Prog\Art Database 1\obj\Release\Art Database 1.csproj.GenerateResource.Cache
+C:\Documents and Settings\PHADEN.OPNET\Desktop\Art Database Prac in Prog\Art Database 1\obj\Release\Art Database 1.exe
+C:\Documents and Settings\PHADEN.OPNET\Desktop\Art Database Prac in Prog\Art Database 1\obj\Release\Art Database 1.pdb
+C:\Documents and Settings\PHADEN.OPNET\Desktop\Art Database Skeleton\Art Database 1\obj\Release\Art Database 1.exe
+C:\Documents and Settings\PHADEN.OPNET\Desktop\Art Database Skeleton\Art Database 1\obj\Release\Art Database 1.pdb
